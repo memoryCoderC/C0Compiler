@@ -1,0 +1,24 @@
+void c()
+{
+	int a,b;
+	scanf(b);
+	a=b+1;
+	if(a){
+	a=a-1;
+	}
+
+	if(a)
+	{
+		a=a-1;
+	}
+	else{
+	    printf(a);
+	}
+
+	printf(111);
+}
+void main()
+{
+	c();
+}
+

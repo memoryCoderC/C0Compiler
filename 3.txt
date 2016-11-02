@@ -1,0 +1,10 @@
+void main()
+{
+	int a,b;
+	a=1;b=4;
+	while(b-a)
+	{
+		printf(b);
+		b=b-1;
+	}
+}

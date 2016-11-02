@@ -1,0 +1,12 @@
+void m(){
+   int a,b,c,d;
+   scanf(a);
+   scanf(b);
+   c=a/b;
+   d=b*c;
+   d=a-d;
+   printf(d);
+}
+void main(){
+  m();
+}

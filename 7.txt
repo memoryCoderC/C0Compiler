@@ -1,0 +1,11 @@
+void a()
+{
+	int b;
+}
+void main()
+{
+	b=1;
+}
+void main()
+{
+}

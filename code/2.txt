@@ -1,0 +1,7 @@
+void main(){
+   int a,b,c;
+   scanf(a);
+   scanf(b);
+   c=a+b;
+   printf(c);
+}
